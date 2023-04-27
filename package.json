@@ -1,0 +1,16 @@
+{
+  "name": "sunil_tripathi_code_challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive --exit",
+    "solution": "node index.js"
+  },
+  "author": "Sunil Tripathi",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "mocha": "^10.0.0"
+  }
+}
